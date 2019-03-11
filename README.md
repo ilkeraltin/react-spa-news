@@ -12,7 +12,7 @@ This project created for a Meetup talk about Server Side Rendering with React.
 
 There is also a Server Side Rendered version of same project.
 
-- [Visit Repo](https://react-spa-ilker.herokuapp.com/)
+- [Visit Repo](https://github.com/ilkeraltin/react-ssr-news)
 - [Click to see DEMO](https://react-ssr-ilker.herokuapp.com/)
 
 ### Installing
@@ -21,7 +21,7 @@ First clone project and install dependencies
 
 ```sh
 $ mkdir react-news && cd react-news
-$ git clone ...
+$ git clone https://github.com/ilkeraltin/react-spa-news.git
 $ npm install
 ```
 
@@ -33,6 +33,7 @@ Find config.js in root folder and update API Key.
 const config = {
   apikey: 'enter-your-api-key'
 };
+```
 
 Run on local
 
