@@ -20,7 +20,7 @@
     "webpack-prod": "webpack -p --progress --config webpack.client.prod.js --mode production",
     "dev:build-client": "webpack --config webpack.client.js --watch"
   },
-  "author": "",
+  "author": "ilker ALTIN",
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
