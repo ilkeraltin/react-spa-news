@@ -73,7 +73,7 @@
     "lint-staged": "^8.1.4",
     "prettier": "^1.16.4",
     "pretty-quick": "^1.10.0",
-    "react-hot-loader": "^4.7.1",
+    "react-hot-loader": "^4.12.15",
     "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "3.8.2"
