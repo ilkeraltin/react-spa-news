@@ -47,7 +47,7 @@
     "webpack": "4.41.0",
     "webpack-merge": "4.2.1",
     "webpack-node-externals": "1.7.2",
-    "compression-webpack-plugin": "^2.0.0",
+    "compression-webpack-plugin": "^6.1.0",
     "clean-webpack-plugin": "^1.0.1",
     "uglifyjs-webpack-plugin": "^2.1.1"
   },
