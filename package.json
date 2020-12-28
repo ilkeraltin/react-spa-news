@@ -75,7 +75,7 @@
     "pretty-quick": "^1.10.0",
     "react-hot-loader": "^4.7.1",
     "webpack-bundle-analyzer": "^3.3.2",
-    "webpack-cli": "^3.2.3",
+    "webpack-cli": "^4.3.0",
     "webpack-dev-server": "3.8.2"
   }
 }
